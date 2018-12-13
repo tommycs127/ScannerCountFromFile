@@ -29,7 +29,7 @@ public class FileReader {
 			e.printStackTrace();
 		}
 
-		System.out.println("Terminated.");
+		System.out.println("Program terminated.");
 
 	}
 
